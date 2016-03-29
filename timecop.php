@@ -8,3 +8,5 @@
  * Author URI: http://github.com/prappo
  * License:GPL2
  */
+
+require __dir__.'/lib/required_files.php';
